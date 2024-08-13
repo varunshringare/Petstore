@@ -18,7 +18,7 @@ Installation and Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/online-pet-store.git
+gh repo clone varunshringare/Petstore
 Open the solution in Visual Studio.
 Restore NuGet packages.
 Update the connection string in web.config to match your SQL Server setup.
